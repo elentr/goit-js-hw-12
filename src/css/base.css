@@ -24,4 +24,5 @@ body {
   margin: 0;
   font-family: "Montserrat", sans-serif;
   align-items: center;
+  overflow-x: hidden;
 }
